@@ -1,7 +1,7 @@
 {
-  "name": "final_homework3",
+  "name": "homework4",
   "version": "1.0.0",
-  "description": "Homework3",
+  "description": "homework4",
   "main": "server.js",
   "dependencies": {
     "express": "^4.17.1",
@@ -10,9 +10,9 @@
   },
   "devDependencies": {},
   "scripts": {
+    "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "KayhanBabakan",
   "license": "MIT"
 }
-  
